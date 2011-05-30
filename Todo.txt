@@ -1,0 +1,2 @@
+(A) 2011-05-30 Get screen resolution automatically
+(B) 2011-05-30 Implement layouts
